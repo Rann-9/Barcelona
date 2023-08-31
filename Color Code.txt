@@ -1,0 +1,4 @@
+Gold: #EDBB00
+Blue: #004D98
+Red: #DB0030
+Yellow: #FFED02
